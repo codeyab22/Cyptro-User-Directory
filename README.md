@@ -10,7 +10,10 @@ As a user, I would like to get access of the employee's info and view on the web
 
 # How to Deploy React
 
+Do npm i in the terminal
 
+Make sure you have the right  installation about
+Node 
 
 
 # Questions?
