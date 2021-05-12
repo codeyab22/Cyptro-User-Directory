@@ -12,14 +12,14 @@ about the company and its relationships with the users. I want to search the nam
 who I contact for help
 
 # Link to the Repository
-Link to the repo:
+Link to the repo: https://github.com/codeyab22/Cyptro-User-Directory
 
 # Link to the Deployed Website
-Link to the deployed website:
+Link to the deployed website: https://cyptro-user-directory.herokuapp.com/
 
 # Screenshot of the Deployed Website
 
-
+![image](https://drive.google.com/uc?export=view&id=1eNJDSbFYWHRSv8ThS_DHxARlrTYarfR-)
 
 # How to Deploy React
 
@@ -29,6 +29,10 @@ Make sure you have the right  installation about
 Node 
 
 Install all the modules of the dependencies
+
+# License(s)
+
+MIT
 
 
 # Questions?
